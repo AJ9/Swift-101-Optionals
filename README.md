@@ -1,5 +1,6 @@
 # Swift 101 - Optionals
-The supplementary Swift Playground to [Swift 101 - Optionals](XXX).
+The supplementary Swift Playground to [Swift 101 - Optionals](https://medium.com/pretty-swifty/optionals-b8d1e6bcddd
+).
 
 ## Playground source
 
