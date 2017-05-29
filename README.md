@@ -7,7 +7,7 @@ The supplementary Swift Playground to [Swift 101 - Optionals](https://medium.com
 ```swift
 /*:
  # Swift 101 - nil
- XXXXX
+ https://medium.com/pretty-swifty/optionals-b8d1e6bcddd
  
  Today I’ll be blogging about another fundamental concept in Swift — Optional variables.
  */
